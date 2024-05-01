@@ -1,0 +1,31 @@
+Name: 
+Age: 
+Marks: 
+
+JComponent Writeup:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod odio vel justo convallis, sit amet commodo odio faucibus.Name: 
+Age: 
+Marks: 
+
+JComponent Writeup:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod odio vel justo convallis, sit amet commodo odio faucibus.Name: 
+Age: 
+Marks: 
+
+JComponent Writeup:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod odio vel justo convallis, sit amet commodo odio faucibus.Name: 
+Age: 
+Marks: 
+
+JComponent Writeup:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod odio vel justo convallis, sit amet commodo odio faucibus.Name: Sai Pranav
+Age: 19
+Marks: 70
+
+JComponent Writeup:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod odio vel justo convallis, sit amet commodo odio faucibus.Name: Sai Pranav
+Age: 19
+Marks: 70
+
+JComponent Writeup:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod odio vel justo convallis, sit amet commodo odio faucibus.

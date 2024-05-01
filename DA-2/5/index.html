@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-News Paper Registration</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>E-News Paper Registration</h2>
+        <form id="registrationForm" onsubmit="return validateForm()">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="fullName" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="countryCode">Country Code:</label>
+            <input type="text" id="countryCode" name="countryCode" required pattern="[A-Z]{3}" title="Please enter 3 uppercase alphabets">
+
+            <button type="submit">Register</button>
+        </form>
+        <p id="message"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
